@@ -1,6 +1,6 @@
 // Rust program to determine age pass
 
-use std :: io;
+use std::io;
 
 fn main() {
 
